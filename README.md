@@ -54,6 +54,8 @@ User should enter correct card details.
 
 ![image](https://github.com/naveen5655/SHOPMELLA/assets/89301294/a26284d7-4d63-4836-b796-4d3e859b6a2d)
 
+After entering correct card details, user can click on pay
+![image](https://github.com/naveen5655/SHOPMELLA/assets/89301294/9d88553a-9c2c-499b-89cb-8bebbf2276a6)
 
 
 ## Thank you for visiting repository

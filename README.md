@@ -1,8 +1,8 @@
-## I Build This Project using Frontend as ReactJS and Backend as SpringBoot
-# Backend
+## I Created this project using ReactJS and SpringBoot.
+# Run Backend
 - connect the database in application.properties
 - Run springboot 
-# Frontend
+# Run Frontend
 - npm install
 - npm start 
 
@@ -11,7 +11,7 @@
 
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/9a3e74ff-9bf5-4bce-8f93-26148d6a4227)
 
-## FeedBack or Contactus Form
+## FeedBack/Contact Form
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/6e1ded73-264c-4d5e-b758-02529ac1dbdc)
 
 
@@ -30,9 +30,23 @@
 ## Product Added Successfull
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/e9f16bc0-2063-4448-88e5-460d5bcf24ec)
 
+## Customer View
+![image](https://github.com/naveen5655/icecream/assets/89301294/dafa5d23-e36e-4126-a491-dfeb288d3688)
+
 
 ## Add to Cart
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/6ad8fbd8-e0ac-4597-aed9-c7af1c01ac91)
+
+## My carts
+![image](https://github.com/naveen5655/icecream/assets/89301294/4941835f-2d41-45bd-86e7-c576c19db214)
+
+## My Orders
+![image](https://github.com/naveen5655/icecream/assets/89301294/133911de-bf89-4a1f-8567-3846ff635846)
+
+
+## Payment 
+![image](https://github.com/naveen5655/icecream/assets/89301294/82f5a0bc-8d8a-4d8c-be6f-bf2ff21956f4)
+
 
 
 ## Thank you for visiting repository

@@ -45,7 +45,7 @@
 
 
 ## Payment 
-![image](https://github.com/naveen5655/icecream/assets/89301294/82f5a0bc-8d8a-4d8c-be6f-bf2ff21956f4)
+![image](https://github.com/naveen5655/SHOPMELLA/assets/89301294/a26284d7-4d63-4836-b796-4d3e859b6a2d)
 
 
 

@@ -1,7 +1,7 @@
 ## I Created this project using ReactJS and SpringBoot.
 # Run Backend
 - connect the database in application.properties
-- Run springboot 
+- Run as springboot 
 # Run Frontend
 - npm install
 - npm start 

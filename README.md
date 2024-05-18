@@ -14,10 +14,6 @@
 ## FeedBack/Contact Form
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/6e1ded73-264c-4d5e-b758-02529ac1dbdc)
 
-
-## Login 
-![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/9ed723db-9b35-4c17-9af1-9db8af34c98b)
-
 ## Admin View
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/cdf78186-00d3-4d5d-8c1f-5d2ac4d72e39)
 
@@ -39,10 +35,6 @@
 
 ## My carts
 ![image](https://github.com/naveen5655/icecream/assets/89301294/4941835f-2d41-45bd-86e7-c576c19db214)
-
-## My Orders
-![image](https://github.com/naveen5655/icecream/assets/89301294/133911de-bf89-4a1f-8567-3846ff635846)
-
 
 ## Payment 
 

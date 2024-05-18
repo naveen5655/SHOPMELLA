@@ -45,10 +45,13 @@
 
 
 ## Payment 
+
 User should fill all required data
+
 ![image](https://github.com/naveen5655/SHOPMELLA/assets/89301294/728c8159-78cb-41d6-8f03-943e139e81ec)
 
-Wrong details filled
+User should enter correct card details.
+
 ![image](https://github.com/naveen5655/SHOPMELLA/assets/89301294/a26284d7-4d63-4836-b796-4d3e859b6a2d)
 
 

@@ -1,10 +1,13 @@
-## I Created this project using ReactJS and SpringBoot.
+## I Created Shopmella project using ReactJS and SpringBoot.
 # Run Backend
 - connect the database in application.properties
 - Run as springboot.
+  
 # Run Frontend
-- npm install
-- npm start 
+```
+npm install
+npm start
+```
 
 ## Home Page
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/57623f29-7e10-4f8e-aa20-485bf60ee33b)
